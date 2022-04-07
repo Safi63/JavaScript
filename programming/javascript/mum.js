@@ -1,0 +1,1 @@
+console.log("Mumtaz" + "ka dimagh" + "   aaj kal garam hy");
